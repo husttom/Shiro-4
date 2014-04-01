@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Shiro_02:war exploded">
+    <output-path>$PROJECT_DIR$/Shiro_02/target/Shiro_02</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Shiro_02/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Shiro_02" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
